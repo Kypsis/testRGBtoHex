@@ -3,7 +3,7 @@
 Npm test module for RGB to Hex conversion and vice-versa
 
 # Install
-$ npm install @bamblehorse/tiny
+$ npm install @severynus/jschallenges
 
 # Usage
 const convertHexOrRgb = require("@severynus/jschallenges");
